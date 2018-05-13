@@ -53,7 +53,7 @@ TCC于BASE相比，增加了业务检查和撤销事务的功能。
 1. 【发起方】发送Try到所有参与方
 2. 每个【参与方】执行Try，预留资源
 3. 【发起方】收到所有【参与方】的Try结果
-4. 【发起方】发送Confirm/Cancel到所有参与房
+4. 【发起方】发送Confirm/Cancel到所有参与方
 5. 每个【参与方】执行Confirm/Cancel
 6. 【发起方】收到所有【参与方】的Confirm/Cancel结果
 
